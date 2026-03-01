@@ -1,0 +1,2 @@
+# Standard library only
+# No external dependencies found in server.py
